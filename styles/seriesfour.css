@@ -1,0 +1,238 @@
+#header {
+// margin-bottom:100px !important;
+}
+#siteWrapper {
+}
+.desc-wrapper p>strong, .desc-wrapper p>em>strong {
+  width:50%;
+  margin:0 auto;
+}
+#folderNav, #categoryNav {
+  padding:0 !important;
+  width: calc(100% + 5%);
+  background: #E0E7ED;
+  text-align: center;
+  margin-bottom:50px;
+  margin-left: -32px !important;
+  margin-top: -32px !important;
+}
+.category-nav .nav-section-label, .folder-nav .nav-section-label {
+  display:none;
+}
+.collection-type-page:not(.hide-page-sidebar) #folderNav+#content, .collection-type-products:not(.hide-products-sidebar) #folderNav+#content, .collection-type-page:not(.hide-page-sidebar) #categoryNav+#content, .collection-type-products:not(.hide-products-sidebar) #categoryNav+#content {
+  width:auto !important;
+}
+.category-nav a, .folder-nav a, .category-nav a:visited, .folder-nav a:visited {
+  position: relative;
+  float: left;
+  width: calc(100% / 3);
+  padding: 25px 0;
+}
+#headerNav {
+  text-align: center !important;
+  vertical-align: bottom !important;
+}
+.row .sqs-row .light-blue {
+  background-color: #F8F9FC !important;
+}
+.align-center {
+	margin: 0 auto !important;
+	display: block !important;
+}
+.hex-bg-titles {
+  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+// FIXES & HACKS
+.mar-fx {
+  margin: -32px !important;
+}
+.sqs-block-button-container--center a:hover {
+  // color: #43484d;
+  // box-shadow: 5px 10px 30px #43484d; 
+}
+// END FIXES & HACKS
+
+.sqs-block-content h1 strong:after {
+  padding-bottom:25px;
+  border-bottom: 3px #D0021B solid;
+  display:block;
+  width:25%;
+  content:"";
+}
+.inside-callout-fitted {
+  background-color: rgba(248, 249, 252, 0.8);
+  padding:0;
+  color: #43484D !important;
+}
+.inside-callout {
+  background: #F8F9FC;
+  padding:40px;
+  color: #43484D !important;
+}
+.dark-orange {
+  background: #F76B1C !important;
+}
+.light-orange {
+  background: #FAD961 !important;
+}
+.dark-blue {
+  background: #446A89 !important;
+}
+.light-blue {
+  background: #20BEF0 !important;
+}
+.font-light h3 {
+  font-weight:200 !important;
+}
+.blue-grad-banner {
+  padding: 50px;
+  color: white !important;
+  display: block;
+  position: relative;
+  min-height: 500px !important;
+  background-image: linear-gradient(-134deg, #446A89 0%, #20BEF0 100%);
+}
+.blue-grad-banner-hex {
+  padding: 50px;
+  color: white !important;
+  display: block;
+  position: relative;
+  min-height: 500px !important;
+  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-134deg,#446a89 0%,#20bef0 100%);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blue-grad-banner .home-page img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  float: right;
+}
+.blue-grad-banner h3,.blue-grad-banner-hex h3 {
+  padding-bottom:15px;
+  color:white !important;
+  font-weight: 800;
+  border-bottom: 1px white solid;
+}
+.blue-grad-banner a, .blue-grad-banner-hex a {
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #ffffff;
+}
+.blue-grad-banner a:hover, .blue-grad-banner-hex a:hover {
+  border-bottom: 1px solid #446a89;
+}
+.blue-grad-banner a:after, .blue-grad-banner-hex a:after {
+  margin-left:50px;
+  margin-right:-20px !important;
+  content:">";
+}
+.blue-grad-banner .text-shadow,.blue-grad-banner-hex .text-shadow  {
+  text-shadow: 0 0 100px rgba(0,0,0,0.25);
+}
+.yellow-grad-banner {
+  display: block;
+  position: relative;
+  min-height: 500px;
+  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-218deg,#fad961 0%,#f76b1c 100%);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.yellow-grad-banner h1, .yellow-grad-banner h3 {
+  padding-bottom:15px;
+  font-weight: 800;
+  border-bottom: 1px solid #43484d;
+}
+.yellow-grad-banner a {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #43484d;
+}
+.yellow-grad-banner a:after {
+  margin-left:50px;
+  margin-right:-20px !important;
+  content:">";
+}
+.yellow-grad-banner a:hover {
+  border-bottom: 1px solid #fb332d;
+}
+.interior-subnav {
+  background: #e0e7ed;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 2px;
+  margin-bottom: 25px !important;
+}
+.interior-subnav-cell {
+  width:33.3333% !important;
+}
+.interior-subnav-cell a:hover {
+    color: #fb332d;
+}
+/* Text Styles */
+.white-text {
+  color:white !important;
+}
+.text-center {
+  text-align:center !important;
+}
+/* Padding and Margins */
+.pad-sm {padding:10px;}
+.pad-med {padding:25px;}
+.pad-lg {padding:50px}
+.pad-xlg {padding:100px}
+
+.mar-sm {margin:10px;}
+.mar-med {margin:25px;}
+.mar-lg {margin:50px}
+.mar-xlg {margin:100px}
+
+// Individual Padding //
+.pad-top-sm {padding-top:10px;}
+.pad-top-med {padding-top:25px;}
+.pad-top-lg {padding-top:50px;}
+.pad-top-xlg {padding-top:100px;}
+// ----- //
+.pad-right-sm {padding-right:10px;}
+.pad-right-med {padding-right:25px;}
+.pad-right-lg {padding-right:50px;}
+.pad-right-xlg {padding-right:100px;}
+// ----- //
+.pad-bot-sm {padding-bottom:10px;}
+.pad-bot-med {padding-bottom:25px;}
+.pad-bot-lg {padding-bottom:50px;}
+.pad-bot-xlg {padding-bottom:100px;}
+// ----- //
+.pad-left-sm {padding-left:10px;}
+.pad-left-med {padding-left:25px;}
+.pad-left-lg {padding-left:50px;}
+.pad-left-xlg {padding-left:100px;}
+
+// Individual Margin //
+.mar-top-sm {margin-top:10px;}
+.mar-top-med {margin-top:25px;}
+.mar-top-lg {margin-top:50px;}
+.mar-top-xlg {margin-top:100px;}
+// ----- //
+.mar-right-sm {margin-right:10px;}
+.mar-right-med {margin-right:25px;}
+.mar-right-lg {margin-right:50px;}
+.mar-right-xlg {margin-right:100px;}
+// ----- //
+.mar-bot-sm {margin-bottom:10px;}
+.mar-bot-med {margin-bottom:25px;}
+.mar-bot-lg {margin-bottom:50px;}
+.mar-bot-xlg {margin-bottom:100px;}
+// ----- //
+.mar-left-sm {margin-left:10px;}
+.mar-left-med {margin-left:25px;}
+.mar-left-lg {margin-left:50px;}
+.mar-left-xlg {margin-left:100px;}

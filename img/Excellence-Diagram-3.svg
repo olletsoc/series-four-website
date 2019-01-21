@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410px" height="409px" viewBox="0 0 410 409" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Excellence-Diagram-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="51.0151323%" fx="50%" fy="51.0151323%" r="47.4072717%" gradientTransform="translate(0.500000,0.510151),scale(0.996701,1.000000),rotate(-90.000000),translate(-0.500000,-0.510151)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <ellipse id="path-2" cx="205.621772" cy="204.90747" rx="187.064643" ry="191.23586"></ellipse>
+        <text id="text-4" font-family="Rubik-Medium, Rubik" font-size="23" font-weight="400" line-spacing="34" fill="#FFFFFF">
+            <tspan x="52.0737724" y="277.414062">The Information Ecosystem</tspan>
+        </text>
+        <filter x="-3.9%" y="-31.1%" width="107.8%" height="162.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Excellence-Diagram-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M205.235886,408.889158 C92.1911811,408.889158 0.578934099,317.553694 0.578934099,204.90747 C0.578934099,92.2357548 92.1911811,0.92578125 205.235886,0.92578125 C318.255014,0.92578125 409.892837,92.2357548 409.892837,204.90747 C409.892837,317.553694 318.255014,408.889158 205.235886,408.889158 Z" id="Fill-17-Copy" fill="url(#radialGradient-1)" style="mix-blend-mode: soft-light;"></path>
+        <ellipse id="Oval" fill="#F8F9FC" fill-rule="nonzero" opacity="0.1" cx="205.621772" cy="204.90747" rx="189.09938" ry="191.23586"></ellipse>
+        <path d="M205.621772,404.384834 C313.387099,404.384834 400.748157,315.075776 400.748157,204.90747 C400.748157,94.7391636 313.387099,5.43010549 205.621772,5.43010549 C97.8564461,5.43010549 10.4953882,94.7391636 10.4953882,204.90747 C10.4953882,315.075776 97.8564461,404.384834 205.621772,404.384834 Z" id="Oval" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4" fill-rule="nonzero"></path>
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Oval" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" xlink:href="#path-2"></use>
+        <g id="Group" mask="url(#mask-3)">
+            <g transform="translate(-85.000000, -64.000000)">
+                <g id="Group-6" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(221.735886, 67.222207)">
+                    <polygon id="Polygon-Copy-12" fill="#FFFFFF" fill-rule="nonzero" transform="translate(68.562329, 68.288801) rotate(-90.000000) translate(-68.562329, -68.288801) " points="68.5623286 0.34251167 127.405541 34.3156562 127.405541 102.261945 68.5623286 136.23509 9.7191162 102.261945 9.7191162 34.3156562"></polygon>
+                    <text id="Business-Processes" font-family="Rubik-Regular, Rubik" font-size="14" font-weight="normal" fill="#FB332D">
+                        <tspan x="39.2043286" y="29.6534508">Business</tspan>
+                        <tspan x="35.1653286" y="46.6534508">Processes</tspan>
+                    </text>
+                </g>
+                <g id="Group-6-Copy" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(112.019484, 131.722207)">
+                    <polygon id="Polygon-Copy-12" fill="#FFFFFF" fill-rule="nonzero" transform="translate(68.100320, 68.288801) rotate(-90.000000) translate(-68.100320, -68.288801) " points="68.1003204 0.34251167 126.943533 34.3156562 126.943533 102.261945 68.1003204 136.23509 9.25710803 102.261945 9.25710803 34.3156562"></polygon>
+                    <text id="Information-Assets" font-family="Rubik-Regular, Rubik" font-size="14" font-weight="normal" fill="#FB332D">
+                        <tspan x="30.1323204" y="29.6534508">Information </tspan>
+                        <tspan x="46.1483204" y="46.6534508">Assets</tspan>
+                    </text>
+                </g>
+                <polygon id="Polygon-Copy-12" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(180.119804, 331.011008) rotate(-90.000000) translate(-180.119804, -331.011008) " points="180.119804 263.064719 238.963017 297.037864 238.963017 364.984153 180.119804 398.957297 121.276592 364.984153 121.276592 297.037864"></polygon>
+                <polygon id="Polygon-Copy-15" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(68.908867, 262.722207) rotate(-90.000000) translate(-68.908867, -262.722207) " points="68.9088666 194.775918 127.752079 228.749063 127.752079 296.695352 68.9088666 330.668496 10.0656542 296.695352 10.0656542 228.749063"></polygon>
+                <polygon id="Polygon-Copy-20" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(177.965773, 71.775918) rotate(-90.000000) translate(-177.965773, -71.775918) " points="177.965773 3.82962919 236.808985 37.8027737 236.808985 105.749063 177.965773 139.722207 119.12256 105.749063 119.12256 37.8027737"></polygon>
+                <polygon id="Polygon-Copy-16" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(512.143242, 262.722207) rotate(-90.000000) translate(-512.143242, -262.722207) " points="512.143242 194.775918 570.986454 228.749063 570.986454 296.695352 512.143242 330.668496 453.300029 296.695352 453.300029 228.749063"></polygon>
+                <polygon id="Polygon-Copy-19" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(401.712540, 68.775918) rotate(-90.000000) translate(-401.712540, -68.775918) " points="401.71254 0.829629193 460.555753 34.8027737 460.555753 102.749063 401.71254 136.722207 342.869328 102.749063 342.869328 34.8027737"></polygon>
+                <polygon id="Polygon-Copy-17" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(401.712540, 459.959505) rotate(-90.000000) translate(-401.712540, -459.959505) " points="401.71254 392.013216 460.555753 425.98636 460.555753 493.932649 401.71254 527.905794 342.869328 493.932649 342.869328 425.98636"></polygon>
+                <polygon id="Polygon-Copy-18" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(180.119804, 459.959505) rotate(-90.000000) translate(-180.119804, -459.959505) " points="180.119804 392.013216 238.963017 425.98636 238.963017 493.932649 180.119804 527.905794 121.276592 493.932649 121.276592 425.98636"></polygon>
+                <polygon id="Polygon-Copy-13" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(290.068061, 395.957297) rotate(-90.000000) translate(-290.068061, -395.957297) " points="290.068061 328.011008 348.911274 361.984153 348.911274 429.930442 290.068061 463.903586 231.224849 429.930442 231.224849 361.984153"></polygon>
+                <polygon id="Polygon-Copy-14" stroke="#E0E7ED" stroke-width="2" opacity="0.15" stroke-linejoin="round" fill-rule="nonzero" transform="translate(401.712540, 330.668496) rotate(-90.000000) translate(-401.712540, -330.668496) " points="401.71254 262.722207 460.555753 296.695352 460.555753 364.641641 401.71254 398.614785 342.869328 364.641641 342.869328 296.695352"></polygon>
+                <g id="Group-6-Copy-2" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(222.121772, 196.222207)">
+                    <polygon id="Polygon-Copy-12" fill="#FFFFFF" fill-rule="nonzero" transform="translate(68.562329, 68.230842) rotate(-90.000000) translate(-68.562329, -68.230842) " points="68.5623286 0.284553197 127.405541 34.2576977 127.405541 102.203987 68.5623286 136.177131 9.7191162 102.203987 9.7191162 34.2576977"></polygon>
+                    <text id="Governance,-Complian" font-family="Rubik-Regular, Rubik" font-size="14" font-weight="normal" fill="#FB332D">
+                        <tspan x="27.8573286" y="29.5954923">Governance, </tspan>
+                        <tspan x="22.0193286" y="46.5954923">Compliance, &amp; </tspan>
+                        <tspan x="41.1993286" y="63.5954923">Controls</tspan>
+                    </text>
+                </g>
+                <g id="Group-6-Copy-3" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(331.658829, 131.722207)">
+                    <polygon id="Polygon-Copy-12" fill="#FFFFFF" fill-rule="nonzero" transform="translate(68.100320, 67.960676) rotate(-90.000000) translate(-68.100320, -67.960676) " points="68.1003204 0.0143866699 126.943533 33.9875312 126.943533 101.93382 68.1003204 135.906965 9.25710803 101.93382 9.25710803 33.9875312"></polygon>
+                    <text id="IM-Technology-Archit" font-family="Rubik-Regular, Rubik" font-size="14" font-weight="normal" fill="#FB332D">
+                        <tspan x="21.9843204" y="29.3253258">IM Technology </tspan>
+                        <tspan x="27.2133204" y="46.3253258">Architecture</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="The-Information-Ecos" mask="url(#mask-3)" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+            <use xlink:href="#text-4"></use>
+        </g>
+        <g id="Group-3-Copy-5" mask="url(#mask-3)" fill="#D0021B">
+            <g transform="translate(205.235886, 338.769075) rotate(-360.000000) translate(-205.235886, -338.769075) translate(200.735886, 315.269075)">
+                <path d="M8.83861312,4.42448986 C8.83861312,6.75413293 6.94969908,8.64304697 4.62005601,8.64304697 C2.28988575,8.64304697 0.401498902,6.75413293 0.401498902,4.42448986 C0.401498902,2.09484679 2.28988575,0.205932751 4.62005601,0.205932751 C6.94969908,0.205932751 8.83861312,2.09484679 8.83861312,4.42448986" id="Fill-16"></path>
+                <path d="M8.83861312,17.0769981 C8.83861312,19.4066411 6.94969908,21.2955552 4.62005601,21.2955552 C2.28988575,21.2955552 0.401498902,19.4066411 0.401498902,17.0769981 C0.401498902,14.7468278 2.28988575,12.858441 4.62005601,12.858441 C6.94969908,12.858441 8.83861312,14.7468278 8.83861312,17.0769981" id="Fill-17"></path>
+                <path d="M8.83861312,29.2023184 C8.83861312,31.5319615 6.94969908,33.4208755 4.62005601,33.4208755 C2.28988575,33.4208755 0.401498902,31.5319615 0.401498902,29.2023184 C0.401498902,26.8721482 2.28988575,24.9837613 4.62005601,24.9837613 C6.94969908,24.9837613 8.83861312,26.8721482 8.83861312,29.2023184" id="Fill-18"></path>
+                <path d="M8.83861312,41.8548266 C8.83861312,44.1844697 6.94969908,46.0733837 4.62005601,46.0733837 C2.28988575,46.0733837 0.401498902,44.1844697 0.401498902,41.8548266 C0.401498902,39.5251835 2.28988575,37.6362695 4.62005601,37.6362695 C6.94969908,37.6362695 8.83861312,39.5251835 8.83861312,41.8548266" id="Fill-19"></path>
+            </g>
+        </g>
+    </g>
+</svg>
