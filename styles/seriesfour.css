@@ -40,7 +40,7 @@
 	display: block !important;
 }
 .hex-bg-titles {
-  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center;
+  background: url(https://raw.githubusercontent.com/olletsoc/series-four-website/master/img/hexagaon-bg-titles.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -102,7 +102,7 @@
   display: block;
   position: relative;
   min-height: 500px !important;
-  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-134deg,#446a89 0%,#20bef0 100%);
+  background: url(https://raw.githubusercontent.com/olletsoc/series-four-website/master/img/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-134deg,#446a89 0%,#20bef0 100%);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -140,7 +140,7 @@
   display: block;
   position: relative;
   min-height: 500px;
-  background: url(http://cdn.olletsoc.com/assets/seriesfour/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-218deg,#fad961 0%,#f76b1c 100%);
+  background: url(https://raw.githubusercontent.com/olletsoc/series-four-website/master/img/hexagaon-bg-titles.png) no-repeat center center, linear-gradient(-218deg,#fad961 0%,#f76b1c 100%);
   background-size: cover;
   background-attachment: fixed;
 }
